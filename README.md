@@ -1,11 +1,11 @@
 # DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions
 
-Please cite this dataset as **Temiloluwa Prioleau, Abigail Bartolome, Catherine Stanger, and Richard Comi. (2022) DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions** [![Generic badge](https://img.shields.io/badge/Scientific_Data-Data_Descriptor-blue.svg)](https://www.nature.com/sdata/articles?type=data-descriptor)
+Please cite this dataset as **Temiloluwa Prioleau, Abigail Bartolome, Richard Comi and Catherine Stanger. (2023) DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions** [![Generic badge](https://img.shields.io/badge/Scientific_Data-Data_Descriptor-blue.svg)](https://www.nature.com/sdata/articles?type=data-descriptor)
 
 This repository contains references to data records for a Data descriptor submitted to *Scientific Data*. Any references to the dataset assume dataset files are stored in directory `dataset/` at this level.
 Below is a description of the different folders and their content.
 
-Please feel free to contact Abigail Bartolome (abigail.bartolome.gr@dartmouth.edu) if you need assistance navigating these documents.
+Please feel free to contact the Augmented Health Lab (ah-lab@dartmouth.edu) if you need assistance navigating these documents.
 
 ### `python_scripts/`
 
