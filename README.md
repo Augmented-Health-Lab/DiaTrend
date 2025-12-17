@@ -1,6 +1,6 @@
 # DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions
 
-Please cite this dataset as **Temiloluwa Prioleau, Abigail Bartolome, Richard Comi and Catherine Stanger. (2023) DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions** [![Generic badge](https://img.shields.io/badge/Scientific_Data-Data_Descriptor-blue.svg)](https://www.nature.com/sdata/articles?type=data-descriptor)
+Please cite this dataset as: **Prioleau, T., Bartolome, A., Comi, R. et al. DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions. Sci Data 10, 556 (2023). https://doi.org/10.1038/s41597-023-02469-5**
 
 This repository contains references to data records for a Data descriptor submitted to *Scientific Data*. Any references to the dataset assume dataset files are stored in directory `dataset/` at this level.
 Below is a description of the different folders and their content.
