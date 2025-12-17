@@ -5,7 +5,7 @@ Please cite this dataset as **Temiloluwa Prioleau, Abigail Bartolome, Richard Co
 This repository contains references to data records for a Data descriptor submitted to *Scientific Data*. Any references to the dataset assume dataset files are stored in directory `dataset/` at this level.
 Below is a description of the different folders and their content.
 
-Please feel free to contact the Augmented Health Lab (ah-lab@dartmouth.edu) if you need assistance navigating these documents.
+Please feel free to contact the Augmented Health Lab (ah-lab@emory.edu) if you need assistance navigating these documents.
 
 ### `python_scripts/`
 
