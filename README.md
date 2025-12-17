@@ -1,9 +1,9 @@
 # DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions
 
 Please cite this dataset as follows: 
-- **Prioleau, T., Bartolome, A., Comi, R. et al. DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions. Sci Data 10, 556 (2023). https://doi.org/10.1038/s41597-023-02469-5.** [[dataset](https://doi.org/10.7303/syn38187184)]
+- **Prioleau, T., Bartolome, A., Comi, R. et al. DiaTrend: A dataset from advanced diabetes technology to enable development of novel analytic solutions. Sci Data 10, 556 (2023). https://doi.org/10.1038/s41597-023-02469-5.**
 
-This repository contains references to data records for a Data Descriptor paper referenced above. Any references to the dataset assume dataset files are stored in directory `dataset/` at this level.
+This repository contains references to data records for a Data Descriptor paper referenced above. The dataset is openly available here for research and can be requested through this link: [DiaTrend Dataset](https://doi.org/10.7303/syn38187184)]. Any references to the dataset assume dataset files are stored in directory `dataset/` at this level.
 Below is a description of the different folders and their content.
 
 Please feel free to contact the Augmented Health Lab (ah-lab@emory.edu) if you need assistance navigating these documents.
